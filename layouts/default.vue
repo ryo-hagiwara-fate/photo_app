@@ -105,6 +105,11 @@ export default {
           icon: 'mdi-chart-bubble',
           title: 'Inspire',
           to: '/inspire'
+        },
+        {
+          icon: 'mdi-camera',
+          title: 'SamplePage',
+          to: '/sample'
         }
       ],
       miniVariant: false,
